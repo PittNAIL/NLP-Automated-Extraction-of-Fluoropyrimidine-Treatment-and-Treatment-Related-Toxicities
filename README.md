@@ -51,3 +51,27 @@ See `resources/keywords/` for curated terminology lists and `resources/prompts/`
 
 ## Pipelines
 
+Rule-based (MedTagger)
+
+A deterministic NLP pipeline built with regular expressions and custom context rules (negation, uncertainty, experiencer). Clinical experts curated terminology lists, and rules were tuned on 80% of the dataset. MedTagger executed these regex rules to extract mentions of fluoropyrimidine treatment and toxicities.
+
+Classical Machine Learning (LR / SVM / RF)
+
+A supervised classification approach with one binary model per toxicity category. Text is preprocessed (tokenization, normalization) and transformed into features:
+
+TF-IDF with sublinear scaling for linear models (Logistic Regression, SVM).
+
+Count-based n-grams for Random Forest.
+Class weighting addressed imbalance, and models were evaluated using precision, recall, and F1.
+
+Deep Learning (BERT / ClinicalBERT)
+
+Neural classifiers using transformer-based embeddings. Input sentences are tokenized and passed through pretrained BERT or ClinicalBERT. Each category is trained independently, with ClinicalBERT providing domain-specific adaptation. Predictions are converted into binary outputs and evaluated against the gold standard.
+
+Large Language Models (LLMs: Zero-shot & Error-analysis prompting)
+
+Inference-only classification with LLaMA 3.1 8B using prompt engineering:
+
+Zero-shot prompting: binary classification prompts with terminology lists and explicit yes/no outputs.
+
+Error-analysis prompting: improved prompts with chain-of-thought reasoning examples, created by analyzing systematic misclassifications. These enhanced prompts helped LLMs better capture indirect or nuanced clinical evidence.
