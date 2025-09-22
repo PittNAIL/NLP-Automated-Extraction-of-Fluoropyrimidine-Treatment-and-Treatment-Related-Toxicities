@@ -1,4 +1,4 @@
-./context/contextRule.txt
+./context/contextRule.txt 
 ./rules/resources_rules_matchrules.txt
 ./regexp/resources_regexp_recartoxangina.txt
 ./regexp/resources_regexp_recartoxarrhythmia.txt
