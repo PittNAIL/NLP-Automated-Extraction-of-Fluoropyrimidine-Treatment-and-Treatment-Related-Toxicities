@@ -1,0 +1,9 @@
+(?:pericardial|pericardium)\s+(?:effusion|fluid)
+(?:effusion|fluid)(?:\s+(?:in|around|of)\s+)?(?:the\s+)?(?:pericardium|heart)
+(?:fluid|effusion)(?:\s*[;,]\s*(?:pericardial|pericardium)|\s*[;]\s*(?:pericardial|pericardium))
+(?:pericardial|pericardium)(?:\s*[;,]\s*(?:fluid|effusion)|\s*[;]\s*(?:fluid|effusion))
+(?:pleural|thoracic)\s+(?:effusion|fluid)
+(?:effusion|fluid)(?:\s+(?:in|around|of)\s+)?(?:the\s+)?(?:pleura|lungs|pleural\s+cavity)
+(?:fluid|effusion)(?:\s*[;,]\s*(?:pleural|pleura)|\s*[;]\s*(?:pleural|pleura))
+(?:pleural|pleura)(?:\s*[;,]\s*(?:fluid|effusion)|\s*[;]\s*(?:fluid|effusion))
+pleural\s+cavity\s+effusion

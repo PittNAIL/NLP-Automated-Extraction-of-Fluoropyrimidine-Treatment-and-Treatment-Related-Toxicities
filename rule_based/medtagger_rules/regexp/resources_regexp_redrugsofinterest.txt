@@ -1,0 +1,3 @@
+(?:capecitabine|xeloda|xitabin|fluorouracil|5-fu|5-fluorouracil|adrucil|fluoro\s+uracil|carac|flurablastin|folfirinox|folfox|xelox)
+
+

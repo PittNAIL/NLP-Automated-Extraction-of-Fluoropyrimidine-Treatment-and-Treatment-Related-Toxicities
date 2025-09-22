@@ -1,0 +1,20 @@
+chest pain
+CP
+angina(?:\s+pectoris)?
+chest discomfort
+chest tightness
+chest pressure
+(?:angina(?:\s+pectoris)?|angor\s+pectoris)
+stenocardia[s]?
+(?:isch?emic|cardiac)\s+(?:chest\s+pain|angina)
+isch?emic\s+heart\s+disease\s*[-]\s*angina
+(?:anginal|cardiac\s+angina)\s+syndrome[s]?
+ap\s*[-]\s*angina\s+pectoris
+anginal\s+(?:pain|discomfort)
+chest\s+pain(?:\s+isch?emic)?
+anginas?(?:\s+nos)?
+pain(?:\s*[;,]\s*(?:chest|angina)(?:\s*[,]\s*isch?emic)?|\s*[;]\s*angina)
+syndrome(?:\s*[;]\s*anginal)
+anginal(?:\s*[;]\s*syndrome)
+angina(?:\s+of\s+effort|\s*,\s*cardiac|\s+pectoris\s*,\s*(?:unspecified|nos))
+

@@ -1,0 +1,6 @@
+(?:erythema|redness)\s+(?:of\s+)?(?:the\s+)?(?:skin|cutaneous|dermal)
+(?:skin|cutaneous|dermal)\s+(?:erythema|redness)
+(?:skin|cutaneous)\s+(?:turn(?:ed|ing)?|became|appears?|looking|changed?)\s+(?:to\s+)?red(?:dened)?
+red(?:dened)?\s+(?:skin|cutaneous)
+erythematous\s+(?:condition|skin)
+(?:unusual|abnormal)\s+(?:change|changes|changing)\s+(?:in|of)\s+(?:skin)\s+(?:color|coloring|colour)\s+(?:to\s+)?red(?:\s*\(?erythema\)?)?

@@ -1,0 +1,11 @@
+(?:isch?emic|cardiac)\s+(?:heart\s+disease|ihd)
+ihd(?:\s*[-]\s*isch?emic\s+heart\s+disease)?
+isch?emic\s+heart\s+disease
+(?:cardiac|myocardial)\s+isch?emia
+isch?emia(?:\s*[;,]\s*(?:heart|myocardial)|\s*[;]\s*(?:heart|myocardial))
+(?:heart|myocardium)(?:\s*[;,]\s*isch?emic|\s*[;]\s*isch?emic)
+myocard(?:itis|itides)
+(?:inflammation|inflammatory)\s+(?:of\s+)?(?:the\s+)?(?:heart\s+muscle|myocardium)
+(?:myocardial|heart\s+muscle)\s+inflammation
+myocardium(?:\s*[;,]\s*inflammation|\s*[;]\s*inflammation)
+inflammation(?:\s*[;,]\s*myocardium|\s*[;]\s*myocardium)

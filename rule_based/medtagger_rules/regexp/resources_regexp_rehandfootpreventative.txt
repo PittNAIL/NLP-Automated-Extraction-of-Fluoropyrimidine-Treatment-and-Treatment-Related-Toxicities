@@ -1,0 +1,2 @@
+(moisturizer|cream|lotion|ointment|urea\s+cream|Aqua\s+Care|Carbamide|Elaqua\s+XX|Lanaphilic|Nutraplus|Ureaphil|Vanamide|utterly\s+smooth|udderly\s+smooth|uridine\s+triacetate|Vistogard)s?|(topical|ciclopirox)\s(\S+\s){0,5}(cream|gel|lotion)|Triamcinolone\s(Ointment|cream)|(nystatin|clindamycin)\stopically
+

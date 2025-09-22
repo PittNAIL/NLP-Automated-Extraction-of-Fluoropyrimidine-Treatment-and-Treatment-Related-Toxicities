@@ -1,0 +1,10 @@
+(?:heart|cardiac|coronary)\s+attack[s]?
+attack(?:ing)?\s+(?:heart|coronary)
+(?:coronary|cardiac|heart)\s+infarct(?:ion)?[s]?
+(?:myocardial|cardiac)\s+(?:infarct(?:ion)?[s]?|necrosis)
+(?:right\s+ventricular|ventricular)\s+infarct(?:ion)?[s]?
+infarct(?:ion)?[s]?\s+(?:of\s+)?(?:the\s+)?(?:heart|myocardial)
+mi(?:\s*[-]\s*myocardial\s+infarction)?
+(?:disorder|syndrome)\s+(?:of\s+)?(?:myocardial\s+infarction)
+infarct(?:ion)?(?:\s*[;,]\s*(?:myocardial|cardiac)|\s*[;]\s*(?:myocardial|cardiac))
+(?:myocardial|cardiac)(?:\s*[;,]\s*infarct(?:ion)?|\s*[;]\s*infarct(?:ion)?)

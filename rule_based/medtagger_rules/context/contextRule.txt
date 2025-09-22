@@ -1,0 +1,34 @@
+// Negation patterns (neg)
+regex:\bno(\s+\S+){0,10}\b~|~pre~|~neg~|~1
+regex:\bdenies(\s+\S+){0,20}\b~|~pre~|~neg~|~1
+regex:\bdoes not have(\s+\S+){0,10}\b~|~pre~|~neg~|~1
+regex:\bdoesn't have(\s+\S+){0,10}\b~|~pre~|~neg~|~1
+regex:\bno evidence of(\s+\S+){0,5}\b~|~pre~|~neg~|~1
+regex:\bnegative for(\s+\S+){0,5}\b~|~pre~|~neg~|~1
+regex:\bwithout(\s+\S+){0,5}\b~|~pre~|~neg~|~1
+regex:\bfree of(\s+\S+){0,5}\b~|~pre~|~neg~|~1
+regex:\bruled out(\s+\S+){0,5}\b~|~pre~|~neg~|~1
+
+// Hypothetical patterns (hypo)
+regex:\bmonitor for(\s+\S+){0,10}\b~|~pre~|~hypo~|~1
+regex:\brisk for(\s+\S+){0,10}\b~|~pre~|~hypo~|~1
+regex:\bscreen for(\s+\S+){0,10}\b~|~pre~|~hypo~|~1
+regex:\bevaluate for(\s+\S+){0,10}\b~|~pre~|~hypo~|~1
+regex:\bassess for(\s+\S+){0,10}\b~|~pre~|~hypo~|~1
+regex:\bwill check(\s+\S+){0,10}\b~|~pre~|~hypo~|~1
+regex:\bconsider(\s+\S+){0,10}\b~|~pre~|~hypo~|~1
+regex:\bpossible(\s+\S+){0,10}\b~|~pre~|~hypo~|~1
+
+// Negation termination patterns
+however~|~termin~|~neg~|~1
+although~|~termin~|~neg~|~1
+though~|~termin~|~neg~|~1
+yet~|~termin~|~neg~|~1
+but~|~termin~|~neg~|~1
+apart from~|~termin~|~neg~|~1
+as a cause of~|~termin~|~neg~|~1
+as a cause for~|~termin~|~neg~|~1
+as an etiology of~|~termin~|~neg~|~1
+as an etiology for~|~termin~|~neg~|~1
+from~|~termin~|~neg~|~1
+

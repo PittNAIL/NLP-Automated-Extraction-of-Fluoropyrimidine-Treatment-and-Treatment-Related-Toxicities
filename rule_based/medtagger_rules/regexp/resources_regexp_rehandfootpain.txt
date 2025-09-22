@@ -1,0 +1,8 @@
+(?:pain(?:ful)?|burning\s+pain)\s+(?:(?:in|of)\s+)?(?:the\s+)?(?:left|right)?\s*(?:hand|foot)(?:\s+only)?
+(?:left|right)?\s*(?:hand|foot)\s+pain
+pain\s+in\s+(?:the\s+)?hands?
+(?:limb\s+pain\s+(?:left|right)?\s*(?:hand|foot)|pain\s+in\s+limb,\s*(?:hand|foot))
+hands?\s+pain
+pain(?:\s*[;,]\s*hand|\s*[;]\s*hand)
+(?:soft\s+tissue\s+)?pain\s+in\s+(?:the\s+)?(?:hand|foot)
+(?:skin\s+(?:symptom\s+)?change|skin\s+change)

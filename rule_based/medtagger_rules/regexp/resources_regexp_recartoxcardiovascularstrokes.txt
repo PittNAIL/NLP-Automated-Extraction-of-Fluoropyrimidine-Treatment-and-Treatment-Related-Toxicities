@@ -1,0 +1,3 @@
+(?:cardiovascular|cardio[-]vascular)\s+stroke[s]?
+stroke[s]?(?:\s*[;,]\s*cardiovascular|\s*[;]\s*cardiovascular)
+(?:stroke|strokes)(?:\s*[,]\s*cardiovascular)

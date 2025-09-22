@@ -1,0 +1,34 @@
+chf
+congestive heart failure
+nicm
+lower extremity swelling
+edema
+leg swelling
+chronic systolic and diastolic congestive heart failure
+heart failure
+(?:cardiac|heart)\s+(?:failure|insufficiency)
+(?:weak|failing)\s+heart
+cardiac\s+function\s+fail
+(?:failure|failures|insufficiency)\s+(?:heart|cardiac)
+(?:heart|cardiac)\s+(?:weak|weakness)
+(?:failure|insufficiency)(?:\s*[;,]\s*(?:heart|cardiac)|\s*[;]\s*(?:heart|cardiac))
+(?:heart|cardiac)(?:\s*[;,]\s*(?:failure|insufficiency)|\s*[;]\s*(?:failure|insufficiency))
+weak(?:\s*[;,]\s*heart|\s*[;]\s*heart)
+(?:heart|cardiac)\s+failure\s+(?:and|&)\s+(?:other\s+)?functional\s+disorders
+(?:bi)?lateral\s+(?:lower\s+)?extremity\s+edema
+(?:interstitial\s+)?(?:edema|oedema)
+edematous
+waterlogged
+dropsy
+hydrops
+(?:swelling|excess)\s+(?:due\s+to\s+)?(?:excess\s+)?fluid
+(?:chf|hf)\s+exacerbation
+(?:congestive\s+heart\s+failure|chf)\s+exacerbation
+reduced\s+(?:left\s+ventricular\s+)?ejection\s+fraction
+reduced\s+(?:ef|lvef)
+reduction\s+in\s+ef
+(?:cardiogenic|cardiovascular|cardiac|heart)\s+shock
+shock(?:\s*[;,]\s*cardiogenic|\s*[;]\s*cardiogenic)
+cardiac\s+shock\s+syndrome
+power\s+failure\s+syndrome
+cardiocirculatory\s+collapse

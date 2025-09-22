@@ -1,0 +1,9 @@
+cyanosis
+cyanotic
+cyanoses
+(?:skin|complexion)\s+(?:turn(?:ed|ing)?|became|appears?|looking|changed?)\s+(?:to\s+)?blue(?:ish)?
+blue(?:ish)?\s+(?:discoloration|tinge|tint|hue)\s+(?:of\s+)?(?:the\s+)?skin
+(?:unusual|abnormal)\s+(?:change|changes|changing)\s+(?:in|of)\s+(?:skin|complexion)\s+(?:color|coloring|colour)\s+(?:to\s+)?blue(?:ish)?
+skin\s+(?:color|colour)\s+(?:turn(?:ed|ing)?|became|appears?|looking|changed?)\s+(?:to\s+)?blue(?:ish)?
+blue(?:ish)?\s+skin(?:\s+color(?:ation)?)?
+

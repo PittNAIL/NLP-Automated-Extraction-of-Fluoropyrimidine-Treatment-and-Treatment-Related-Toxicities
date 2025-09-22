@@ -1,0 +1,1 @@
+(?:capecitabine|fluoropyrimidine|fp|xeloda|5-fu|chemo(?:therapy)?)\s*[-]?\s*induced

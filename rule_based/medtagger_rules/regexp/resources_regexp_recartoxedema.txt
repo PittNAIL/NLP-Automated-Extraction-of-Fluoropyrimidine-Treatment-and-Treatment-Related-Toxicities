@@ -1,0 +1,6 @@
+edema\s+of\s+(?:(?:left|right|bilateral)\s+)?palm\s+of\s+hand
+edema\s+of\s+sole\s+of\s+foot
+(?:hand|palm)\s+edema
+(?:foot|sole)\s+edema
+(?:palmar|plantar)\s+edema
+(?:left|right|bilateral)\s+(?:hand|foot|palm|sole)\s+edema

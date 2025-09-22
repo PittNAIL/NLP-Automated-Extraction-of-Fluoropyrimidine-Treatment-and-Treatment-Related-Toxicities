@@ -1,0 +1,7 @@
+(?:myocardial|heart\s+muscle)\s+disease[s]?
+(?:cardio|myo(?:cardio)?)myopath(?:y|ies)
+(?:disease[s]?|disorder)\s+(?:of\s+)?(?:the\s+)?(?:heart\s+muscle|myocardium)
+myocardio(?:dystrophy|dystrophies)
+(?:disease[s]?|disorder)(?:\s*[;,]\s*(?:myocardial|myocardium)|\s*[;]\s*(?:myocardial|myocardium))
+(?:myocardium|heart\s+muscle)(?:\s*[;,]\s*disease[s]?|\s*[;]\s*disease[s]?)
+myocardium(?:\s*[-]{2}\s*|\s*[-]\s*)disease[s]?

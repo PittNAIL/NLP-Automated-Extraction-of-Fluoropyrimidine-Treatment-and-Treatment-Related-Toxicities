@@ -1,0 +1,5 @@
+(?:(?:capecitabine|xeloda|xitabin|fluorouracil|5-fu|5-fluorouracil|adrucil|fluoro\s+uracil|carac|flurablastin)[^.]{1,100}?(?:\d+(?:,\d+)?(?:[-]\d+(?:,\d+)?)?\s*mg(?:/m2)?|\d+(?:[-]\d+)?\s*tablets?|\d+[-]?\d*\s*(?:DAYS?\s*)?ON|\d+[-]?\d*\s*(?:DAYS?\s*)?OFF|BID|twice\s+daily|once\s+daily|\d+[-]?\d*\s+times?\s+a\s+day)|(?:\d+(?:,\d+)?(?:[-]\d+(?:,\d+)?)?\s*mg(?:/m2)?|\d+(?:[-]\d+)?\s*tablets?|\d+[-]?\d*\s*(?:DAYS?\s*)?ON|\d+[-]?\d*\s*(?:DAYS?\s*)?OFF|BID|twice\s+daily|once\s+daily|\d+[-]?\d*\s+times?\s+a\s+day)[^.]{1,100}?(?:capecitabine|xeloda|xitabin|fluorouracil|5-fu|5-fluorouracil|adrucil|fluoro\s+uracil|carac|flurablastin))
+
+
+
+

@@ -1,0 +1,35 @@
+atrial fibrillation
+a. fib
+afib
+svt
+irregular heartbeat
+flutter
+arrhythmia
+DC CARDIOVERSION
+(?:cardiac|heart)\s+(?:arrhythmia|dysrhythmia)s?
+(?:disorder|disturbance)\s+of\s+heart\s+rhythm
+(?:cardiac|heart)\s+rhythm\s+(?:irregular|disorder|disturbance)s?
+(?:irregular|abnormal)\s+heart(?:\s+beat|beat)?
+dysrhythmia(?:\s+cardiac)?
+(?:cardiac|heart)\s+arrhythmia(?:\s+nos)?
+(?:disturbance|disorder|rhythm)(?:\s*[;,]\s*(?:rhythm|heart|cardiac)(?:\s*[,]\s*abnormal)?|\s*[;]\s*(?:rhythm|heart|cardiac))
+ectopic\s+beats(?:\s+all\s+types)?
+(?:atrial|auricular)\s+fibrillation
+a(?:\s*[-]\s*)?fib
+(?:fibrillation|flutter)(?:\s*[;,]\s*(?:atrial|auricular|ventricular))
+(?:ventricular|atrial|auricular)\s+(?:fibrillation|flutter)
+(?:cardiac\s+arrest\s*[-]\s*)?ventricular\s+fibrillation
+(?:a|atrial|auricular)\s*[-]\s*flutter
+aflutter
+(?:tachy|brady)cardia
+(?:fast|rapid|quick|high|increased)\s+(?:heart\s+rate|pulse|heart\s+beat)
+(?:slow|low|decreased)\s+(?:heart\s+rate|pulse|heart\s+beat)
+heart(?:\s+rate)?\s+(?:fast|rapid|slow|decreased|increased|high|low)
+pulse\s+(?:fast|rapid|slow|increased|decreased|rate\s+(?:low|high))
+heart\s+racing
+racing\s+heart
+(?:heart|pulse)\s+rate\s+(?:increased|decreased|low|high)
+(?:heart|pulse)(?:\s*[;,]\s*(?:frequency|beat)(?:\s*[,]\s*(?:high|low|rapid|slow))?|\s*[;]\s*(?:high|low|rapid|slow))
+v(?:\s*[-]\s*)?tach
+(?:ventricular)\s+tachycardia
+pulse\s+rate\s+decrease(?:\s+marked)?

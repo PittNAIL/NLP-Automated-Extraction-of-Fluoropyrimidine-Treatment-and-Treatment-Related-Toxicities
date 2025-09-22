@@ -1,0 +1,16 @@
+tricuspid regurgitation
+aortic stenosis
+(?:aortic|tricuspid|mitral)\s+insufficiency
+MVR
+AR
+aortic root dilation
+aortic valvular disease
+bicuspid aortic valve
+(?:tricuspid|aortic)\s+valve\s+(?:insufficiency|regurgitation|incompetence)
+(?:insufficiency|regurgitation|incompetence)(?:\s*[,]\s*(?:tricuspid|aortic)\s+valve|\s*[;]\s*(?:tricuspid|aortic))
+(?:tr|ti)\s*[-]\s*tricuspid\s+(?:regurgitation|incompetence)
+regurgitation\s+of\s+right\s+atrioventricular\s+valve
+heart\s+valve\s+disorder\s+atrioventricular\s+right\s+leaflet\s+abnormality\s+regurgitation
+(?:ai|ar)\s*[-]\s*aortic\s+(?:incompetence|regurgitation)
+aortic\s+(?:valve\s+)?(?:insufficiency|incompetence|regurgitation)
+aortic\s+\(valve\)\s+insufficiency
