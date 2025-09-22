@@ -12,18 +12,11 @@ Xizhi Wu, Madeline S. Kreider, Philip E. Empey, Chenyu Li, Yanshan Wang
 ## Table of Contents
 - [Overview](#overview)
 - [Tasks & Labels](#tasks--labels)
-- [Repo Structure](#repo-structure)
-- [Data & Privacy](#data--privacy)
-- [Environment Setup](#environment-setup)
-- [Quick Start](#quick-start)
 - [Pipelines](#pipelines)
   - [Rule-based (MedTagger)](#rule-based-medtagger)
   - [Machine Learning (LR / SVM / RF)](#machine-learning-lr--svm--rf)
   - [Deep Learning (BERT / ClinicalBERT)](#deep-learning-bert--clinicalbert)
   - [LLM (Zero-shot / Error-analysis prompting)](#llm-zero-shot--error-analysis-prompting)
-- [Evaluation & Reproduction](#evaluation--reproduction)
-- [Extending to New Categories](#extending-to-new-categories)
-- [Citations](#citations)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -56,5 +49,5 @@ See `resources/keywords/` for curated terminology lists and `resources/prompts/`
 
 ---
 
-## Repo Structure
+## Pipelines
 
