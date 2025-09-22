@@ -51,7 +51,7 @@ See `resources/keywords/` for curated terminology lists and `resources/prompts/`
 
 ## Pipelines
 
-1. **Rule-based** with MedTagger
+1. **Rule-based with MedTagger**
 
 A deterministic NLP pipeline built with regular expressions and custom context rules (negation, uncertainty, experiencer). Clinical experts curated terminology lists, and rules were tuned on 80% of the dataset. MedTagger executed these regex rules to extract mentions of fluoropyrimidine treatment and toxicities.
 
